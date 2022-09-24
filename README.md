@@ -7,9 +7,6 @@
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=AhmedHIbrahim&label=Profile%20views&color=0e75b6&style=plastic" alt="ahmedhibrahim" /> 
-</p>
 
 
 ## :sassy_man:  About me
@@ -23,6 +20,12 @@
 
 
 <!--
+
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=AhmedHIbrahim&label=Profile%20views&color=0e75b6&style=plastic" alt="ahmedhibrahim" /> 
+</p>
+
 <img alt="Coding" height="auto" width="450px" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack

@@ -5,11 +5,6 @@
     </a>
 </p>
 
-
-<br>
-
-
-
 ## :sassy_man:  About me
 - 🎓: I am a Computer Engineer.
 - :school: I'm a PhD Student of Bioinformatics at Mugle University.

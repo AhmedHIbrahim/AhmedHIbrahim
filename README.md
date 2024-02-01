@@ -1,28 +1,55 @@
-<h1 align="center">Hi , I'm Ahmed H. Ibrahim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href=“#”>
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer;Bioinformatics+PhD+Student;Always+learning+new+things&center=true&width=500&height=50"/>
-    </a>
-</p>
+<h1 align="center">Hi , I'm Ahmed. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">And I like to code.</h1>
 
-## :sassy_man:  About me
+
+<h2>Full-stack software engineer</h2>
+
+
+Here are some of my current favorite technologies and tools 👨‍💻
+
+- Front-end: React, React-Native, Next.js, Vue.js
+- Programming Languages: JavaScript/TypeScript
+- Back-end: Node.js
+- Scripting: Bash, Python
+- Database: MySQL, MongoDB
+- Caching: Redis
+- Web Server: Nginx
+
+<br>
+
+Things I enjoy 🤓
+
+- Coding for the Frontend and Backend, and Bioinformatics 🧬 
+- Automating EVERYTHING
+- Embracing the world of Linux 🐧
+- Maintaining a sense of neatness, simplicity, and cleanliness in my code
+- Savoring a delightful cup of coffee paired with a croissant 🥐 ☕
+- Immersing myself in books 📖 📚 👓
+
+<br>
+How to connect with me 🤝
+
+- <a href="https://www.linkedin.com/in/ahmed-h-i-763b60164/">LinkedIn</a>
+- <a href='mailto:ahmedhibrahim01@gmail.com'>Send a nice email 📧</a>
+
+<!--1
+<img alt="Coding" height="auto" width="450px" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" align="right"/>
+
+## :note  About me
 - 🎓: I am a Computer Engineer.
 - :school: I'm a PhD Student of Bioinformatics at Mugle University.
 - 🧑‍💻: I'm working as a Software Engineer at Alternet.
 - 🌱: I'm on track for learning more about: `NLP` and `Image Processing`.
 - 🔍: I’m currently open for: `Freelance Jobs` or a new `Remote Job opportunity`
-- 📫 How to reach me: ahmedhibrahim02@gmail.com
-<br>
-
-
-<!--
-
+  
+<p align="center">
+  <a href=“#”>
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Always+learning+new+things&center=true&width=500&height=50"/>
+    </a>
+</p>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=AhmedHIbrahim&label=Profile%20views&color=0e75b6&style=plastic" alt="ahmedhibrahim" /> 
 </p>
-
-<img alt="Coding" height="auto" width="450px" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 

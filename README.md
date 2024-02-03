@@ -17,9 +17,10 @@ Here are some of my current favorite technologies and tools 👨‍💻
 <br>
 
 <br>
-How to connect with me 🤝
+Feel free to explore my projects and connect with me! Let's code something amazing together. 🚀
 
 - <a href="https://www.linkedin.com/in/ahmed-h-i-763b60164/">LinkedIn</a>
+- <a href="https://www.notion.so/Ahmed-H-Ibrahim-f8a0c2ee6a284f378926a0d64e4fac1d">Portfolio</a>
 - <a href='mailto:ahmedhibrahim01@gmail.com'>Send a nice email 📧</a>
 
 <!--1

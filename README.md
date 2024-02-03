@@ -16,15 +16,6 @@ Here are some of my current favorite technologies and tools 👨‍💻
 
 <br>
 
-Things I enjoy 🤓
-
-- Coding for the Frontend and Backend, and Bioinformatics 🧬 
-- Automating EVERYTHING
-- Embracing the world of Linux 🐧
-- Maintaining a sense of neatness, simplicity, and cleanliness in my code
-- Savoring a delightful cup of coffee paired with a croissant 🥐 ☕
-- Immersing myself in books 📖 📚 👓
-
 <br>
 How to connect with me 🤝
 
@@ -40,7 +31,17 @@ How to connect with me 🤝
 - 🧑‍💻: I'm working as a Software Engineer at Alternet.
 - 🌱: I'm on track for learning more about: `NLP` and `Image Processing`.
 - 🔍: I’m currently open for: `Freelance Jobs` or a new `Remote Job opportunity`
-  
+
+
+Things I enjoy 🤓
+
+- Coding for the Frontend and Backend, and Bioinformatics 🧬 
+- Automating EVERYTHING
+- Embracing the world of Linux 🐧
+- Maintaining a sense of neatness, simplicity, and cleanliness in my code
+- Savoring a delightful cup of coffee paired with a croissant 🥐 ☕
+- Immersing myself in books 📖 📚 👓
+
 <p align="center">
   <a href=“#”>
     <img src="https://readme-typing-svg.herokuapp.com?lines=Always+learning+new+things&center=true&width=500&height=50"/>
